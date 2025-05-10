@@ -1,6 +1,7 @@
 # Orphanage Management System Database
 
-![Database Schema](path_to_er_diagram_image.png)
+<img src="https://github.com/user-attachments/assets/1e22663e-50e9-4e0a-966a-5a7f75e0b695">
+
 
 A comprehensive database solution for managing orphanage operations in a post-war scenario (2122). Developed as part of the Introduction to Database course at American International University - Bangladesh.
 
